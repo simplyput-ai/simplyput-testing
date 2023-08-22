@@ -3,7 +3,7 @@
 This repo is here to help you run automated tests on your questions on simplyput. After folowing these instructions you will have:
 - A repo to add your tests to
 - It will run daily
-- A nifty tests are passing page will be displayed :)
+- A nifty `tests are passing badge` will be displayed :)
 
 ## 1. Get your ORG_ID and SP_API_KEY
 right now you have to get it from us...
